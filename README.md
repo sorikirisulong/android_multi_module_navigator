@@ -4,3 +4,9 @@ This repository presents a methodology to solve cases where dereferencing betwee
 <img width="865" alt="image" src="https://github.com/sorikirisulong/android_multi_module_navigator/assets/103094210/32011761-b755-42cf-8f75-99701e1e1189">
 
 
+<img width="796" alt="image" src="https://github.com/sorikirisulong/android_multi_module_navigator/assets/103094210/d7d4c946-0751-4b23-af1a-65dba9274b17">
+
+![image](https://github.com/sorikirisulong/android_multi_module_navigator/assets/103094210/0536098d-6ee0-46ca-819a-976512d5acc7)
+
+
+
