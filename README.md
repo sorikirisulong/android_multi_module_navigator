@@ -17,7 +17,7 @@ This repository presents a methodology to solve cases where dereferencing betwee
   }
 }%%
 
-graph LR
+graph TD
   app --> common
   app --> navigation
   app --> search
