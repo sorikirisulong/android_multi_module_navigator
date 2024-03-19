@@ -11,29 +11,3 @@ This repository presents a methodology to solve cases where dereferencing betwee
 ![image](https://github.com/sorikirisulong/android_multi_module_navigator/assets/103094210/0536098d-6ee0-46ca-819a-976512d5acc7)
 
 
-```mermaid
-%%{
-  init: {
-    'theme': 'neutral'
-  }
-}%%
-
-graph LR
-
-  subgraph common
-    common
-    navigation
-  end
-  subgraph feature
-    offer
-    search
-  end
-  app --> common
-  app --> navigation
-  app --> search
-  app --> offer
-  search --> common
-  search --> navigation
-  offer --> common
-  offer --> navigation
-```
