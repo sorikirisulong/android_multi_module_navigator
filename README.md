@@ -13,13 +13,13 @@ This repository presents a methodology to solve cases where dereferencing betwee
 ```mermaid
 graph LR
 
-  subgraph common
-    common
-    navigation
-  end
   subgraph feature
     offer
     search
+  end
+  subgraph common
+    common
+    navigation
   end
   app --> common
   app --> navigation
