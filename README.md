@@ -18,15 +18,6 @@ This repository presents a methodology to solve cases where dereferencing betwee
 }%%
 
 graph LR
-
-  subgraph common
-    common
-    navigation
-  end
-  subgraph feature
-    offer
-    search
-  end
   app --> common
   app --> navigation
   app --> search
