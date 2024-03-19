@@ -14,11 +14,6 @@ This repository presents a methodology to solve cases where dereferencing betwee
 ### Dependency Diagram
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'neutral'
-  }
-}%%
 
 graph LR
 
